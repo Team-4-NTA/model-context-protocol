@@ -46,7 +46,7 @@ Kiến trúc MCP được thiết kế theo mô hình **Client – Server – Ex
 **MCP Architecture Diagram** – Minh hoạ tổng thể Client–Server–Resources:
 
 ```markdown
-![MCP Architecture Diagram](assets/diagrams/mcp-architecture.svg)
+![MCP Architecture Diagram](assets/diagrams/mcp-architecture.png)
 ```
 
 **Context Interaction Flow** – Luồng trao đổi dữ liệu giữa AI và MCP Server:
