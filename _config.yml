@@ -1,0 +1,4 @@
+title: MCP Documentation
+description: Tài liệu tổng quan về Model Context Protocol (MCP)
+theme: minima # Dùng theme mặc định hoặc bỏ nếu muốn custom hoàn toàn
+markdown: kramdown
